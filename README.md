@@ -1,4 +1,4 @@
-# Scratch Warner
+# Scratch-Warner
 
 Scratch Warner is a Chrome extension made by [Dinosu](https://scratch.mit.edu/users/Dinosu), designed to protect against accidentally being muted for accidentally saying something against Scratch's censor bot, or being banned for accidentally saying something against the Community Guidelines.
 

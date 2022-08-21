@@ -22,4 +22,4 @@ If there is something essential that you think is missing from the blacklist, pl
 
 ### Credits
 
-The Scratch Warner icon was created by [Turtsles](https://scratch.mit.edu/users/Turtsles).
+The original Scratch Warner icon was created by [Turtsles](https://scratch.mit.edu/users/Turtsles), prior to a large redesign by [Turtsles](https://scratch.mit.edu/users/Dinosu) that changed everything but the red background and exclamation mark.

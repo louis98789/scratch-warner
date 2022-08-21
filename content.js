@@ -31,7 +31,6 @@ function main() {
 chrome.storage.local.get(["censored_text"], (censored) => {
     var newCensored = censored.censored_text;
     if (!(newCensored)) {
-        console.log("hi");
         chrome.storage.local.set({"censored_text": ["repl.co", "discord"]}, () => {
             setInterval(main, 300);
         });

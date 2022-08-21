@@ -19,3 +19,7 @@ Any time you get muted for accidentally saying something, you can add it to the 
 In the popup, you will see a list of all the strings you will currently be warned about, an "x" next to each of them, and an input box. To add a blacklisted string, simply enter it in the input box and press "enter." To remove an item from the blacklist, press the "x" next to it.
 
 If there is something essential that you think is missing from the blacklist, please do not hesitate to comment so on [Dinosu's profile](https://scratch.mit.edu/users/Dinosu#comments), but please do not mention the name of this extension. Simply comment "add ... to the blacklist," or something similar.
+
+### Credits
+
+The Scratch Warner icon was created by [@Turtsles](https://scratch.mit.edu/users/Turtsles).

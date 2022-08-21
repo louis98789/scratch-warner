@@ -60,7 +60,7 @@ document.getElementById("text-input").addEventListener("keypress", (event) => {
 chrome.storage.local.get(["censored_text"], (censored) => {
     var newCensored = censored.censored_text;
     if (!(newCensored)) {
-        chrome.storage.local.set({"censored_text": ["repl.co", "discord"]}, () => {});
+        chrome.storage.local.set({"censored_text": ["repl.co", "discord", "scratch addons"]}, () => {});
     }
 
     updateCensoredDisplay();
